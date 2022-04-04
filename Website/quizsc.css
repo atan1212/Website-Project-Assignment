@@ -1,0 +1,46 @@
+html {
+    background: url("imgs/iconiccurry.jpg") no-repeat center fixed;
+    text-align: center;
+}
+
+#nav {
+    width: 100px;
+    height: 50px;
+    margin: 0.001px;
+    border-radius: 5px;
+    margin-top: -50px;
+    border: rgba(255, 255, 255, 0.7);
+    font-size: 25px;
+    background: rgba(210, 160, 40, 1);
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(160, 50, 50, 1);
+}
+
+body {
+    background: rgba(255, 255, 255, 0.6);
+    padding: 25px 100px;
+    width: 500px;
+    margin: 25px auto;
+    border-radius: 25px;
+    margin-top: -25px;
+}
+
+h3 {
+    text-align: left;
+}
+
+#sub-btn {
+    margin-left: -430px;
+    background: rgba(210, 160, 40, 1);
+    color: rgba(160, 50, 50, 1);
+    border: rgba( 255, 255, 255, 0);
+    width: 75px;
+    height: 25px;
+    border-radius: 10px;
+}
+

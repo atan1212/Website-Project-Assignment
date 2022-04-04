@@ -1,0 +1,55 @@
+html {
+    background: url("imgs/yellowcurry.webp") center fixed;
+    text-align: center;
+    color: black;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    margin: 0.001px;
+    border-radius: 5px;
+    margin-top: -50px;
+    border: rgba(255, 255, 255, 0.7);
+    font-size: 25px;
+    background: black;
+}
+
+a {
+    text-decoration: none;
+    color: gold;
+}
+
+body{
+    background: rgba(255, 255, 255, 0.6);
+    text-align: left;
+    padding: 25px 100px;
+    width: 500px;
+    margin: 25px auto;
+    border-radius: 25px;
+    margin-top: -25px;
+}
+
+p {
+    text-align: center;
+}
+
+#youngcurry {
+    width: 200px;
+    margin-left: 150px;
+}
+
+#doubtedcurry {
+    width: 150px;
+    margin-left: 170px;
+}
+
+#collegecurry {
+    width: 300px;
+    margin-left: 100px;
+}
+
+#inspirational {
+    width: 300px;
+    margin-left: 100px;
+}

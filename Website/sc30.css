@@ -1,0 +1,33 @@
+html {
+    background: url("imgs/backgroundcurry.jpg") no-repeat center fixed;
+    color: white;
+    text-align: center;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    margin: 0.001px;
+    border-radius: 5px;
+    margin-top: -50px;
+    border: rgba(255, 255, 255, 0.7);
+    font-size: 25px;
+    background: rgba(255, 255, 255, 1);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    margin: 100px auto;
+    width: 600px;
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+
+h2 {
+    margin-top: -25px;
+}
+
